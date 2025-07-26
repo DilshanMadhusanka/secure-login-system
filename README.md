@@ -40,6 +40,6 @@ A full-stack authentication system built with **React.js**, **Node.js (Express)*
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name/backend
+git clone https://github.com/DilshanMadhusanka/secure-login-system.git
+cd secure-login-system/backend
 
